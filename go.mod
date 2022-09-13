@@ -1,4 +1,4 @@
-module github.com/descope/golang-lru
+module github.com/viktordanov/golang-lru
 
 go 1.18
 
